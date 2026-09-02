@@ -123,18 +123,6 @@ Hey there! I'm **Mikun**, a Computer Science graduate from the **Federal Univers
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexwells1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Alexwells1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="trophies"/>
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
