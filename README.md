@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Mikun's Banner" width="100%"/>
+<img src="./banner.jpg" alt="Mikun's Banner" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=B.Sc.+Computer+Science+%7C+FUNAAB;Frontend+%26+Backend+Developer;Anime+Lover+%F0%9F%8C%B8;Mobile+Legends+Bang+Bang+Player+%F0%9F%8E%AE;Cat+Person+%F0%9F%90%BE)](https://git.io/typing-svg)
 
