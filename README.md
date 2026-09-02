@@ -116,9 +116,9 @@ Hey there! I'm **Mikun**, a Computer Science graduate from the **Federal Univers
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexwells1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alexwells1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexwells1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&hide=stars" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Alexwells1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&hide=stars" height="180"/>
 </div>
 
 <br/>
@@ -132,7 +132,7 @@ Hey there! I'm **Mikun**, a Computer Science graduate from the **Federal Univers
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alexwells1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Alexwells1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="trophies"/>
 </div>
 
 ---
